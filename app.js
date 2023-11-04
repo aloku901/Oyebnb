@@ -24,7 +24,7 @@ app.get("/testListing", (req, res) => {
         title: "My new Villa",
         description: "buy with all city",
         price: 5000,
-        location: "Azamgarh UP",
+        location: "Azamgarh",
         country: "India",
     })
 })
